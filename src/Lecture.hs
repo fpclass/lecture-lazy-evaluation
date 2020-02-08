@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
 -- Functional Programming (CS141)                                             --
--- Lecture 10: Lazy evaluation                                                --
+-- Lecture: Lazy evaluation                                                   --
 --------------------------------------------------------------------------------
 
-module Lecture10 where
+module Lecture where
 
 import Prelude hiding (map, take, length)
 

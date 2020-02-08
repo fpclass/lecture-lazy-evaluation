@@ -1,2 +1,3 @@
-# lecture10
-Source code for the tenth lecture
+# Lecture: Lazy evaluation
+
+Source code for the lecture on lazy evaluation
